@@ -1,7 +1,7 @@
 import React, { useContext, useState ,useEffect} from "react";
 import "./main.css";
 import { assets } from "../../assests/assets";
-import { Context } from "../../context/context";
+import { Context } from "../../context/Context";
 import Sidebar from "../Sidebar/sidebar";
 
 const Main = () => {
